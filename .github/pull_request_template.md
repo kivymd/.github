@@ -1,9 +1,21 @@
+### Description of the problem
+
+Describe what problem your PR will solve.
+
+### Reproducing the problem
+
+```python
+# Minimal code example that reproduces the problem:
+```
+
+### Screenshots of the problem
+
+Attach screenshots that demonstrate the problem.
+
 ### Description of Changes
-* ...
-* ...
 
-### Screenshots
+Describe what changes you create to solve the problem.
 
-Add images to explain us your changes. Paste urls here.
+### Screenshots of the solution to the problem
 
-Remove this section if no images here
+Attach screenshots that demonstrate that your changes solved the problem.
